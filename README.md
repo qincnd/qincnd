@@ -1,2 +1,6 @@
-你好，我是中国人，是一个正在努力学习程序开发的学生
-emm，没有了
+hello, I'm Chinese
+I can java/python only a little.
+
+Twitter:@qincnd
+tg:@qincnd
+
