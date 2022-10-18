@@ -1,6 +1,5 @@
 hello, I'm Chinese
-I can java/python only a little.
+I can java only a little.
 
-Twitter:@qincnd
-tg:@qincnd
+Tg:@qincnd
 
