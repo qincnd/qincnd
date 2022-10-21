@@ -1,5 +1,6 @@
 hello, I'm Chinese
 I can java only a little.
 
-Tg:@qincnd
+QQ:2162848316
+
 
